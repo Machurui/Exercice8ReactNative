@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298900906073",
+    "project_id": "exo8-react-native",
+    "storage_bucket": "exo8-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298900906073:android:388b042c7335f01c4c1148",
+        "android_client_info": {
+          "package_name": "com.exercice8reactnative"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsJxrzBI5NKDVwWDiha4xrZNolQWHftU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
